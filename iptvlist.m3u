@@ -1,4 +1,4 @@
-央卫频道,#genre#
+央视频道,#genre#
 CCTV-01频道,http://123.52.87.69:52200/hls/1/index.m3u8
 CCTV-01频道,http://zhancheng.x3322.net:6699/live/1001/index.m3u8
 CCTV-02频道,http://123.52.87.69:52200/hls/2/index.m3u8
@@ -41,6 +41,7 @@ CGTN_西语台,http://221.221.153.193:8888/rtp/239.3.1.217:4220
 CGTN_法语台,http://221.221.153.193:8888/rtp/239.3.1.218:4220
 CGTN_阿语台,http://221.221.153.193:8888/rtp/239.3.1.219:4220
 CGTN_俄语台,http://221.221.153.193:8888/rtp/239.3.1.220:4220
+卫视频道,#genre#
 凤凰中文频道,http://182.104.192.98:8180/TV00000000000000000008@HHZT
 凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
