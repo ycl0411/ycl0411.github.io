@@ -41,12 +41,8 @@ CGTN_西语台,http://221.221.153.193:8888/rtp/239.3.1.217:4220
 CGTN_法语台,http://221.221.153.193:8888/rtp/239.3.1.218:4220
 CGTN_阿语台,http://221.221.153.193:8888/rtp/239.3.1.219:4220
 CGTN_俄语台,http://221.221.153.193:8888/rtp/239.3.1.220:4220
+
 卫视频道,#genre#
-凤凰中文频道,http://182.104.192.98:8180/TV00000000000000000008@HHZT
-凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰电影频道,http://117.114.153.18:8180/TV00000000000000000072@HHZT
 世界地理频道,http://zhancheng.x3322.net:6699/live/1087/index.m3u8
 兵器科技频道,http://zhancheng.x3322.net:6699/live/1083/index.m3u8
 第一剧场频道,http://zhancheng.x3322.net:6699/live/1081/index.m3u8
@@ -104,7 +100,13 @@ CETV4台频道,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u
 吉林卫视频道,http://zhancheng.x3322.net:6699/live/1035/index.m3u8
 兵团卫视频道,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 黑龙江视频道,http://zhancheng.x3322.net:6699/live/1024/index.m3u8
-闽港限秒,#genre#
+
+港澳台,#genre#
+凤凰中文频道,http://182.104.192.98:8180/TV00000000000000000008@HHZT
+凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰电影频道,http://117.114.153.18:8180/TV00000000000000000072@HHZT
 三立新闻频道,http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv   
 年代新闻频道,http://ali.hlspull.yximgs.com/live/tboxprooqevdyscvbudloqlnsfqewtqudvbbqxfqnqlvcqdqdnqxw.flv 
 非凡新闻频道,http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv  
@@ -117,6 +119,7 @@ CETV4台频道,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u
 天映频道台国,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv 
 天映经典频国,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv 
 THrill_电影英,http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqfcqtchplqy.flv 
+
 闽南频道,#genre#
 中天新闻频道,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天新闻频道,http://cdn.iptv8k.top/dl/jspd.php?id=1
@@ -570,6 +573,7 @@ GLO-Bet频道,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv016
 TRACEU频道,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv082
 MEZZOl频道,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv083
 Ginx_TV频道,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv053
+
 粤港澳闽,#genre#
 广东珠江频道,http://zhancheng.x3322.net:6699/live/1053/index.m3u8
 广东珠江频道,http://zhancheng.x3322.net:6699/live/1055/index.m3u8
@@ -723,6 +727,7 @@ ELTA体3频陆,p3p://108.181.32.169:43205/6433e3220006392724084f1711880c01
 动物星球频陆,p3p://108.181.32.169:43205/6425241f00027d03ea6e9b836b853b0b
 国家地理频陆,p3p://108.181.32.169:43205/642523f2000e0f35ea6deeb16ff816c9
 星卫娱乐频陆,p3p://108.181.32.169:43205/6425242d000d55adea6ed4fa37195f98
+
 特区频陆,#genre#
 凤凰中文频陆,p3p://108.181.32.169:43205/6410229e000655dd98612e41401e3e7d
 凤凰中文频陆,p3p://108.181.32.169:43205/641fd7b400080236d5bc536f5d82159c
