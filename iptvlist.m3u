@@ -102,24 +102,28 @@ CETV4台频道,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u
 黑龙江视频道,http://zhancheng.x3322.net:6699/live/1024/index.m3u8
 
 港澳台,#genre#
-凤凰中文频道,http://182.104.192.98:8180/TV00000000000000000008@HHZT
 凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+寰宇新闻台,http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv
+凤凰中文频道,http://182.104.192.98:8180/TV00000000000000000008@HHZT
+
+
 凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰电影频道,http://117.114.153.18:8180/TV00000000000000000072@HHZT
-三立新闻频道,http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv   
-年代新闻频道,http://ali.hlspull.yximgs.com/live/tboxprooqevdyscvbudloqlnsfqewtqudvbbqxfqnqlvcqdqdnqxw.flv 
-非凡新闻频道,http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv  
 闽壹新闻频道,http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
 民视新闻频道,http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv 
 台视新闻频道,http://ali.hlspull.yximgs.com/live/tboxproncqqtqqudtqlqcvbcvntqqqsfwetqfvcbcxvdqbqfflvcqtsxw.flv
 无线翡翠频粤,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv 
-无线赛马频粤,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv 
 天映频道台国,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv 
 天映经典频国,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv 
 THrill_电影英,http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqfcqtchplqy.flv 
 
-闽南频道,#genre#
+港澳台HD,#genre#
+凤凰资讯频道HD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+
+凤凰资讯频道1,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰资讯频道2,p3p://108.181.32.169:43205/641022be000e5cc69861ad4f5a025336
+凤凰资讯频陆1,p3p://108.181.32.169:43205/641022be000e5cc69861ad4f5a025336
+
 中天新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv009
 中天新闻HD,http://cdn.iptv8k.top/dl/jspd.php?id=1
 中天新闻HD,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv009
@@ -132,7 +136,12 @@ THrill_电影英,http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqde
 TVBS新闻台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv072
 寰宇新闻台HD,http://litv.zapi.us.kg/?id=litv-longturn14
 寰宇新闻台HD,http://222.186.57.43:22222/php/litv.php?id=litv-longturn14
-寰宇新闻台,http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv
+
+三立新闻频道,http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv   
+年代新闻频道,http://ali.hlspull.yximgs.com/live/tboxprooqevdyscvbudloqlnsfqewtqudvbbqxfqnqlvcqdqdnqxw.flv 
+非凡新闻频道,http://ali.hlspull.yximgs.com/live/tboxprosqtnfqqoqdcbfcxvqfuuqqweqqqsqyuhhdqsqhqynffxw.flv  
+
+无线赛马频粤,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv 
 
 
 非凡新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv010
@@ -576,8 +585,7 @@ Ginx_TV频道,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv053
 广州新闻频道,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
 凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视频道,p3p://108.181.32.169:43205/6410229e000655dd98612e41401e3e7d
-凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯频道,p3p://108.181.32.169:43205/641022be000e5cc69861ad4f5a025336
+
 凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港频备,p3p://108.181.32.169:43205/641022da0005d3069862188000a64525
 香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
@@ -711,7 +719,7 @@ ELTA体3频陆,p3p://108.181.32.169:43205/6433e3220006392724084f1711880c01
 特区频陆,#genre#
 凤凰中文频陆,p3p://108.181.32.169:43205/6410229e000655dd98612e41401e3e7d
 凤凰中文频陆,p3p://108.181.32.169:43205/641fd7b400080236d5bc536f5d82159c
-凤凰资讯频陆,p3p://108.181.32.169:43205/641022be000e5cc69861ad4f5a025336
+
 凤凰香港频陆,p3p://108.181.32.169:43205/641022da0005d3069862188000a64525
 有线新闻频陆,p3p://108.181.32.169:43205/6533f8d200067abd2d0ae8f534c10d88
 无线新闻频陆,p2p://142.54.189.230:2215/64df13d8000a1ec304abae6b03b97a73.ts
