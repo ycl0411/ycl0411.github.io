@@ -42,6 +42,8 @@ CGTN_法语台,http://221.221.153.193:8888/rtp/239.3.1.218:4220
 CGTN_阿语台,http://221.221.153.193:8888/rtp/239.3.1.219:4220
 CGTN_俄语台,http://221.221.153.193:8888/rtp/239.3.1.220:4220
 
+
+
 卫视频道,#genre#
 世界地理频道,http://zhancheng.x3322.net:6699/live/1087/index.m3u8
 兵器科技频道,http://zhancheng.x3322.net:6699/live/1083/index.m3u8
@@ -101,6 +103,8 @@ CETV4台频道,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u
 兵团卫视频道,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 黑龙江视频道,http://zhancheng.x3322.net:6699/live/1024/index.m3u8
 
+
+
 港澳台,#genre#
 凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 民视新闻台,http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv
@@ -117,13 +121,12 @@ TVBS闽南,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv073
 古典音乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv059
 古典音乐台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv059
 时尚运动（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv014
-
-
+Amc电影台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv017
+TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
+MEZZOl,http://litv.zapi.us.kg/?id=4gtv-4gtv083
 天映频道台国,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv 
 天映经典频国,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv 
 THrill_电影英,http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqfcqtchplqy.flv 
-
-
 
 
 港澳台HD,#genre#
@@ -239,143 +242,15 @@ TVBS欢乐台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 中天亚洲台HD,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv109
 爱放动漫HD,http://litv.zapi.us.kg/?id=litv-ftv15
 爱放动漫HD,http://222.186.57.43:22222/php/litv.php?id=litv-ftv15
-
-
-
+Ginx_TVHD,http://litv.zapi.us.kg/?id=4gtv-4gtv053
+SMArt知识HD（无声）,http://litv.zapi.us.kg/?id=litv-longturn19
+韩国娱乐台HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv016
+CAT电影HD,http://litv.zapi.us.kg/?id=4gtv-4gtv076
+采昌影剧HD,http://litv.zapi.us.kg/?id=4gtv-4gtv049
+数位电影HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv011
+Amc电影台HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv017
 无线翡翠台HD（粤）,http://ali.hlspull.yximgs.com/live/tboxprofhwwqpthqyqtqqqxcxbfhqqfqvhdtqdvbtvqsqxqfsqqcvbctvbfc.flv
-无线赛马频粤,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
-
-
-
-
-
-
-采昌影剧频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv049
-采昌影剧频道2,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv049
-采昌影剧频道3,http://tw.ts138.top/4g/?id=4gtv-4gtv049
-采昌影剧频道4,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv049
-采昌影剧频道5,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv049
-
-
-
-
-
-
-数位电影频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv011
-数位电影频道2,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv011
-数位电影频道3,http://tw.ts138.top/4g/?id=4gtv-4gtv011
-数位电影频道4,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv011
-数位电影频道5,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv011
-
-
-
-
-
-
-Amc电影频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv017
-Amc电影频道2,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv017
-Amc电影频道3,http://tw.ts138.top/4g/?id=4gtv-4gtv017
-Amc电影频道4,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv017
-Amc电影频道5,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv017
-
-
-
-
-
-CAT电影频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv076
-CAT电影频道2,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv076
-CAT电影频道3,http://tw.ts138.top/4g/?id=4gtv-4gtv076
-CAT电影频道4,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv076
-CAT电影频道5,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv076
-
-
-
-
-
-TRA体育频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv077
-TRA体育频道2,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv077
-TRA体育频道3,http://tw.ts138.top/4g/?id=4gtv-4gtv077
-TRA体育频道4,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv077
-TRA体育频道5,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv077
-
-
-
-
-
-SMArt知识台1,http://litv.zapi.us.kg/?id=litv-longturn19
-SMArt知识台2,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/litv-longturn19
-SMArt知识台3,http://tw.ts138.top/4g/?id=litv-longturn19
-SMArt知识台4,http://222.186.57.43:22222/php/litv.php?id=litv-longturn19
-SMArt知识台5,http://free.xiptv.x10.bz/4gtv.php?id=litv-longturn19
-
-
-
-
-
-GLO-Bet频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv016
-GLO-Bet频道2,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv016
-GLO-Bet频道3,http://tw.ts138.top/4g/?id=4gtv-4gtv016
-GLO-Bet频道4,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv016
-GLO-Bet频道5,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv016
-
-
-
-
-
-TRACEU频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv082
-TRACEU频道2,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv082
-TRACEU频道3,http://tw.ts138.top/4g/?id=4gtv-4gtv082
-TRACEU频道4,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv082
-TRACEU频道5,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv082
-
-
-
-
-MEZZOl频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv083
-MEZZOl频道2,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv083
-MEZZOl频道3,http://tw.ts138.top/4g/?id=4gtv-4gtv083
-MEZZOl频道4,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv083
-MEZZOl频道5,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv083
-
-
-
-
-
-Ginx_TV频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv053
-Ginx_TV频道2,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv053
-Ginx_TV频道3,http://tw.ts138.top/4g/?id=4gtv-4gtv053
-Ginx_TV频道4,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv053
-Ginx_TV频道5,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv053
-
-
-
-
-闽镜新闻频道1,http://litv.zapi.us.kg/?id=4gtv-4gtv075
-闽镜新闻频道2,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv075
-闽镜新闻频道3,http://tw.ts138.top/4g/?id=4gtv-4gtv075
-闽镜新闻频道4,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv075
-闽镜新闻频道5,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv075
-
-
-
-
-阿里郎频道台1,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv079
-阿里郎频道台2,http://tw.ts138.top/4g/?id=4gtv-4gtv079
-阿里郎频道台3,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv079
-阿里郎频道台4,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv079
-
-
-
-
-达文西频道台1,http://104.233.187.193/php/r-zb.php?url=https://kaytse4gtv.koyeb.app/litv/4gtv-4gtv018
-达文西频道台2,http://tw.ts138.top/4g/?id=4gtv-4gtv018
-达文西频道台3,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv018
-达文西频道台4,http://free.xiptv.x10.bz/4gtv.php?id=4gtv-4gtv018
-
-
-
-
-
+无线赛马HD（粤）,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
 
 
 
@@ -397,7 +272,6 @@ RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/s
 
 
 
-
 广东频道,#genre#
 广州新闻频道,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州竞赛频道,http://php.jdshipin.com:8880/gztv.php?id=jingsai
@@ -410,6 +284,7 @@ RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/s
 梅州综合HD,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.flv
 梅州客家生活HD,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.flv
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
+
 
 
 童年频道,#genre#
@@ -460,6 +335,7 @@ Q版三国剧集,http://cfss.cc/cdn/hy/29465871.m3u8
 粤语港剧轮播,http://cfss.cc/cdn/dyu/6478650.m3u8
 粤语港剧回忆,http://cfss.cc/cdn/dyu/742565.m3u8
 粤语轮播剧集,http://cfss.cc/cdn/dyu/10567318.m3u8
+
 
 
 龙年电影,#genre#
