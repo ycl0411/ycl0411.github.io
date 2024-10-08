@@ -106,30 +106,6 @@ CETV4台频道,http://117.161.12.124/live/program/live/zgjy4hd8m/8000000/mnf.m3u
 
 
 
-港澳台,#genre#
-凤凰中文频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-民视新闻台,http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv
-寰宇新闻台,http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv
-凤凰香港频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰电影频道,http://117.114.153.18:8180/TV00000000000000000072@HHZT
-闽壹新闻频道,http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
-TVBS闽南,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv073
-八大精彩台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv034
-靖洋戏剧台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv045
-靖天戏剧台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv058
-龙华卡通（无声）,http://litv.zapi.us.kg/?id=litv-longturn01
-龙华卡通（无声）,http://222.186.57.43:22222/php/litv.php?id=litv-longturn01
-古典音乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv059
-古典音乐台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv059
-时尚运动（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv014
-Amc电影台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv017
-TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
-MEZZOl,http://litv.zapi.us.kg/?id=4gtv-4gtv083
-天映频道台国,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv 
-天映经典频国,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv 
-THrill_电影英,http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqfcqtchplqy.flv 
-
-
 港澳台HD,#genre#
 凤凰资讯HD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 中天新闻HD,http://litv.zapi.us.kg/?id=4gtv-4gtv009
@@ -255,12 +231,21 @@ Amc电影台HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv017
 
 
 
-粤港澳闽,#genre#
-广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
-广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
+港澳台,#genre#
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰香港（备）,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+凤凰电影频道,http://117.114.153.18:8180/TV00000000000000000072@HHZT
 香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+民视新闻台,http://ali.hlspull.yximgs.com/live/tboxprocnbvqfhdquqqvcbnqftuqscxqfqeqyhqqvqfmsxw.flv
+寰宇新闻台,http://ali.hlspull.yximgs.com/live/tboxprophxehmffquxcxqveqeqyhmnqqxqqhqdhnqbnxfdqfhyxw.flv
+闽壹新闻频道,http://ali.hlspull.yximgs.com/live/tboxpromqfoyqvqsdvbnweqtquqqxqcvfqqsqfhfqddqqlhtbchyxw.flv
+TVBS闽南,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv073
+八大精彩台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv034
+靖洋戏剧台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv045
+靖天戏剧台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv058
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 千禧经典台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
@@ -269,19 +254,31 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
 RTHK-34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
 RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-香港面包,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+古典音乐台,http://litv.zapi.us.kg/?id=4gtv-4gtv059
+古典音乐台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv059
+Amc电影台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv017
+TRA体育,http://litv.zapi.us.kg/?id=4gtv-4gtv077
+MEZZOl,http://litv.zapi.us.kg/?id=4gtv-4gtv083
+天映频道台国,http://ali.hlspull.yximgs.com/live/tboxproqeqcxlvofbqbvnqqsfqvbhfhcvxcvqsqbcvqfdvqsfcbqbnqtypq.flv 
+天映经典频国,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv 
+THrill_电影英,http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqdeqfqxqucqshvqcsqqfcqtchplqy.flv
+龙华卡通（无声）,http://litv.zapi.us.kg/?id=litv-longturn01
+龙华卡通（无声）,http://222.186.57.43:22222/php/litv.php?id=litv-longturn01
+时尚运动（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv014
 
 
 
 广东频道,#genre#
-广州新闻频道,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-广州竞赛频道,http://php.jdshipin.com:8880/gztv.php?id=jingsai
-广州影视频道,http://php.jdshipin.com:8880/gztv.php?id=yingshi
-广州法治频道,http://php.jdshipin.com:8880/gztv.php?id=fazhi
-佛山影视频道,http://php.jdshipin.com:8880/fstv.php?id=fsys
-佛山公共频道,http://php.jdshipin.com:8880/fstv.php?id=fsgg
+广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
+广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
+广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+广州竞赛,https://tencentplay.gztv.com/live/jingsai.m3u8?txSecret=9be68e7c35579d02d11f6968531343ea&txTime=1903ea2dd6a
+广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
+广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
+佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
+佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
 南国都市HD,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
-番禺电视频道HD,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
+番禺电视HD,http://video.epaper.pybtv.cn:8080/live/rtmp_live_demo.flv
 梅州综合HD,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.flv
 梅州客家生活HD,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.flv
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
