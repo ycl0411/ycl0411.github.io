@@ -24,9 +24,16 @@ CCTV-11 戏曲,http://123.52.87.69:52200/hls/11/index.m3u8
 CCTV-11 戏曲,http://zhancheng.x3322.net:6699/live/1011/index.m3u8
 CCTV-12 社会与法,http://123.52.87.69:52200/hls/12/index.m3u8
 CCTV-12 社会与法,http://zhancheng.x3322.net:6699/live/1012/index.m3u8
-CCTV-13 新闻,http://121.18.43.254:10000/hls/13/index.m3u8
-CCTV-13 新闻,http://123.138.216.44:9902/tsfile/live/0013_1.m3u8
-CCTV-13 新闻,http://zhancheng.x3322.net:6699/live/1013/index.m3u8
+
+CCTV13-1,http://182.104.192.98:8180/TV00000000000000000040@HHZT
+CCTV13-2,http://dev.grayidea.com:4022/udp/239.3.1.124:8128
+CCTV13-3,http://221.213.69.82:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV13-4,http://116.28.124.202:8520/udp/239.77.0.188:5146
+CCTV13-5,http://hlsbkmgsplive.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?&encrypt=
+
+CCTV-13 新1闻,http://121.18.43.254:10000/hls/13/index.m3u8
+CCTV-13 新2闻,http://123.138.216.44:9902/tsfile/live/0013_1.m3u8
+CCTV-13 新3闻,http://zhancheng.x3322.net:6699/live/1013/index.m3u8
 CCTV-14 少儿,http://123.52.87.69:52200/hls/14/index.m3u8
 CCTV-14 少儿,http://zhancheng.x3322.net:6699/live/1014/index.m3u8
 CCTV-15 音乐,http://123.52.87.69:52200/hls/15/index.m3u8
