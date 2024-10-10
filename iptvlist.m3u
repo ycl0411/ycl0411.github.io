@@ -50,13 +50,10 @@ CGTN_俄语台,http://221.221.153.193:8888/rtp/239.3.1.220:4220
 
 卫视高清,#genre#
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
-
 CETV1,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 动作电影,http://117.114.153.18:8180/TV00000000000000000093@HHZT
 家庭影院,http://117.114.153.18:8180/TV00000000000000000092@HHZT
-
-
 
 
 
@@ -111,7 +108,7 @@ TVBS欢乐台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv068
 民视闽南HD,http://litv.zapi.us.kg/?id=4gtv-4gtv155
 民视闽南HD,http://litv.zapi.us.kg/?id=4gtv-4gtv002
 中视菁采HD,http://litv.zapi.us.kg/?id=4gtv-4gtv064
-八大精彩台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv034
+
 八大综艺台HD,http://litv.zapi.us.kg/?id=4gtv-4gtv039
 八大综艺台HD,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv039
 爱尔达娱乐HD,http://litv.zapi.us.kg/?id=4gtv-4gtv070
@@ -173,28 +170,6 @@ CAT电影HD,http://litv.zapi.us.kg/?id=4gtv-4gtv076
 无线赛马HD（粤）,http://ali.hlspull.yximgs.com/live/tboxprovhxqcvfhoeqfqhdoqqqyhcvxclqhqotqyq9qssqfdqcvhthofsqqhyx18.flv
 
 
-中视闽南HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv040
-中视闽南HD（无声）,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv040
-华视闽南HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv041
-台视闽南HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv066
-寰宇闽南HD（无声）,http://litv.zapi.us.kg/?id=litv-longturn15
-公视戏剧HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv042
-靖洋戏剧台HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv045
-龙华电影HD（无声）,http://litv.zapi.us.kg/?id=litv-longturn03
-龙华戏剧HD（无声）,http://litv.zapi.us.kg/?id=litv-longturn18
-龙华经典HD（无声）,http://litv.zapi.us.kg/?id=litv-longturn21
-好消息-1HD（无声）,http://litv.zapi.us.kg/?id=litv-ftv16
-好消息-2HD（无声）,http://litv.zapi.us.kg/?id=litv-ftv17
-博斯魅力HD（无声）,http://litv.zapi.us.kg/?id=litv-longturn04
-达文西HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv018
-生活英语台HD（无声）,http://litv.zapi.us.kg/?id=litv-longturn20
-客家电视HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv043
-SMArt知识HD（无声）,http://litv.zapi.us.kg/?id=litv-longturn19
-韩国娱乐台HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv016
-数位电影HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv011
-Amc电影台HD（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv017
-
-
 
 港澳台,#genre#
 凤凰卫视,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -232,12 +207,6 @@ THrill_电影英,http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqde
 时尚运动（无声）,http://litv.zapi.us.kg/?id=4gtv-4gtv014
 
 
-
-测试频道,#genre#
-Taiwan_EBC,https://iptv.foxcloud.asia/live/Taiwan_EBC.flv
-TVBS_NEWS,https://iptv.foxcloud.asia/live/TVBS_NEWS.flv
-Taiwan_CTS_News,https://iptv.foxcloud.asia/live/Taiwan_CTS_News.flv
-Taiwan_CTV,https://iptv.foxcloud.asia/live/Taiwan_CTV.flv
 
 广东频道,#genre#
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
