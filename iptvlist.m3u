@@ -215,6 +215,25 @@ THrill_电影英,http://ali.hlspull.yximgs.com/live/tboxproecvqweqqosvoqqqsqqqde
 
 
 
+AKTV,#genre#
+FTV,https://aktv.top/live/FTV/index.m3u8
+ftv13,https://aktv.top/live/ftv13/index.m3u8
+4gtv065,https://aktv.top/live/4gtv065/index.m3u8
+4gtv066,https://aktv.top/live/4gtv066/index.m3u8
+TVBS_NEWS1,https://aktv.top/live/TVBS_NEWS1/index.m3u8
+4gtv009,https://aktv.top/live/4gtv009/index.m3u8
+TVBS,https://aktv.top/live/TVBS/index.m3u8
+TTV,https://aktv.top/live/TTV/index.m3u8
+4gtv004,https://aktv.top/live/4gtv004/index.m3u8
+4gtv001,https://aktv.top/live/4gtv001/index.m3u8
+4gtv052,https://aktv.top/live/4gtv052/index.m3u8
+Taiwan_EBC,https://aktv.top/live/Taiwan_EBC/index.m3u8
+Taiwan_CTV,https://aktv.top/live/Taiwan_CTV/index.m3u8
+TVBS_NEWS,https://aktv.top/live/TVBS_NEWS/index.m3u8
+GlobalNewsTV,https://aktv.top/live/GlobalNewsTV/index.m3u8
+Taiwan_CTS_News,https://aktv.top/live/Taiwan_CTS_News/index.m3u8
+
+
 广东频道,#genre#
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州新闻,https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=4c09e8c2d093bcb692e036ae54ff87c7&txTime=1903e37cd8a
